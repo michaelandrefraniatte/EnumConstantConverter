@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\bin\Release\EnumConstantConverter.exe.config
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\bin\Release\EnumConstantConverter.exe
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\bin\Release\EnumConstantConverter.pdb
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.Form1.resources
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.Properties.Resources.resources
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.exe
+C:\Users\micha\Documents\github\EnumConstantConverter\Src\EnumConstantConverter\EnumConstantConverter\obj\Release\EnumConstantConverter.pdb
